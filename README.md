@@ -1,2 +1,2 @@
 # weka-course
-Data Mining with Weka Course Files
+Course related documents for the Future Learn courses Data Mining with Weka, More Data Mining with Weka, and Advanced Data Mining with Weka.
