@@ -1,2 +1,2 @@
 # weka-course
-Course related documents for the Future Learn courses Data Mining with Weka, More Data Mining with Weka, and Advanced Data Mining with Weka.
+Course related documents for the Future Learn courses Data Mining with Weka, More Data Mining with Weka, and Advanced Data Mining with Weka. For example, lengthy comments for *Activity* discussions.
